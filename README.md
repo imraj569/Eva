@@ -32,7 +32,7 @@ Stay hydrated and improve your well-being with Eva, the evolving Telegram bot th
 
 Please remember that Eva is currently in the development stage, and some functions may not be fully functional or may undergo changes as development progresses.
 
-**GitHub Repository:** [Link to the GitHub repository goes here]
+**GitHub Repository:** [https://github.com/imraj569/Eva]
 
 We appreciate your interest in Eva, and we look forward to your support and feedback as we continue to refine and expand its capabilities. If you have any questions or suggestions, feel free to reach out.
 
